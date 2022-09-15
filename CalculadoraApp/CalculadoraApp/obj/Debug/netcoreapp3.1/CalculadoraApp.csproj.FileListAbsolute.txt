@@ -1,0 +1,16 @@
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\bin\Debug\netcoreapp3.1\CalculadoraApp.exe
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\bin\Debug\netcoreapp3.1\CalculadoraApp.deps.json
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\bin\Debug\netcoreapp3.1\CalculadoraApp.runtimeconfig.json
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\bin\Debug\netcoreapp3.1\CalculadoraApp.runtimeconfig.dev.json
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\bin\Debug\netcoreapp3.1\CalculadoraApp.dll
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\bin\Debug\netcoreapp3.1\CalculadoraApp.pdb
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.csproj.AssemblyReference.cache
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.Form1.resources
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.csproj.GenerateResource.cache
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.AssemblyInfoInputs.cache
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.AssemblyInfo.cs
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.csproj.CoreCompileInputs.cache
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.dll
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.pdb
+D:\Senai\ProgAplicativo\CalculadoraApp\CalculadoraApp\obj\Debug\netcoreapp3.1\CalculadoraApp.genruntimeconfig.cache
